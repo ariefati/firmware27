@@ -18,27 +18,17 @@ var a_to_ve="";var a_to_vf=new Array();var a_to_vg=0;a_to_ve=document.getElement
 {a_to_vh=true;}
 j++;}
 if(a_to_vh==false)
-{var encryptedUrl=Base64.encode(a_to_vi);var x=Math.floor((Math.random()*20)+ 1);var xxx=null;
-if(x=="1"){xxx="/2017/12/article1.html"}
-if(x=="2"){xxx="/2017/12/article2.html"}
-if(x=="3"){xxx="/2017/12/article3.html"}
-if(x=="4"){xxx="/2017/12/article4.html"}
-if(x=="5"){xxx="/2017/12/article5.html"}
-if(x=="6"){xxx="/2017/12/article6.html"}
-if(x=="7"){xxx="/2017/12/article7.html"}
-if(x=="8"){xxx="/2017/12/article8.html"}
-if(x=="9"){xxx="/2017/12/article9.html"}
-if(x=="10"){xxx="/2017/12/article10.html"}
-if(x=="11"){xxx="/2017/12/article11.html"}
-if(x=="12"){xxx="/2017/12/article12.html"}
-if(x=="13"){xxx="/2017/12/article13.html"}
-if(x=="14"){xxx="/2017/12/article14.html"}
-if(x=="15"){xxx="/2017/12/article15.html"}
-if(x=="16"){xxx="/2017/12/article16.html"}
-if(x=="17"){xxx="/2017/12/article17.html"}
-if(x=="18"){xxx="/2017/12/article18.html"}
-if(x=="19"){xxx="/2017/12/article19.html"}
-if(x=="20"){xxx="/2017/12/article20.html"}a_to_ve[i].href="https://firmware-27.blogspot.com"+xxx+"?url="+ encryptedUrl;a_to_ve[i].rel="nofollow";a_to_vb++;a_to_vc+=i+":::"+ a_to_ve[i].href+"\n";}}
+{var encryptedUrl=Base64.encode(a_to_vi);var x=Math.floor((Math.random()*10)+ 1);var xxx=null;
+if(x=="1"){xxx="/2017/12/data0.html"}
+if(x=="2"){xxx="/2017/12/data1.html"}
+if(x=="3"){xxx="/2017/12/data2.html"}
+if(x=="4"){xxx="/2017/12/data3.html"}
+if(x=="5"){xxx="/2017/12/data4.html"}
+if(x=="6"){xxx="/2017/12/data5.html"}
+if(x=="7"){xxx="/2017/12/data6.html"}
+if(x=="8"){xxx="/2017/12/data7.html"}
+if(x=="9"){xxx="/2017/12/data8.html"}
+if(x=="10"){xxx="/2017/12/data9.html"}a_to_ve[i].href="https://firmware-27.blogspot.com"+xxx+"?url="+ encryptedUrl;a_to_ve[i].rel="nofollow";a_to_vb++;a_to_vc+=i+":::"+ a_to_ve[i].href+"\n";}}
 var a_to_vj=document.getElementById("anonyminized");var a_to_vk=document.getElementById("found_links");if(a_to_vj)
 {a_to_vj.innerHTML+=a_to_vb;}
 if(a_to_vk)
