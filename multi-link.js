@@ -25,7 +25,7 @@ if(x=="3"){xxx="/2018/01/the-best-samsung-smartphone-for-gaming.html"}
 if(x=="4"){xxx="/2018/01/best-smartphone-phone-for-camera-in-2018.html"}
 if(x=="5"){xxx="/2018/01/iphone-8-price-and-specification-2018.html"}
 if(x=="6"){xxx="/2018/01/iphone-7-price-and-specification-in.html"}
-if(x=="7"){xxx="/2017/12/data6.html"}
+if(x=="7"){xxx="/2018/01/best-smartphone-for-photography.html"}
 if(x=="8"){xxx="/2017/12/data7.html"}
 if(x=="9"){xxx="/2017/12/data8.html"}
 if(x=="10"){xxx="/2017/12/data9.html"}a_to_ve[i].href="http://cloud.fw27.xyz"+xxx+"?url="+ encryptedUrl;a_to_ve[i].rel="nofollow";a_to_vb++;a_to_vc+=i+":::"+ a_to_ve[i].href+"\n";}}
