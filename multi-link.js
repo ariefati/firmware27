@@ -26,7 +26,7 @@ if(x=="4"){xxx="/2018/01/best-smartphone-phone-for-camera-in-2018.html"}
 if(x=="5"){xxx="/2018/01/iphone-8-price-and-specification-2018.html"}
 if(x=="6"){xxx="/2018/01/iphone-7-price-and-specification-in.html"}
 if(x=="7"){xxx="/2018/01/best-smartphone-for-photography.html"}
-if(x=="8"){xxx="/2017/12/data7.html"}
+if(x=="8"){xxx="/2018/01/best-smartphone-for-vlogging.html"}
 if(x=="9"){xxx="/2017/12/data8.html"}
 if(x=="10"){xxx="/2017/12/data9.html"}a_to_ve[i].href="http://cloud.fw27.xyz"+xxx+"?url="+ encryptedUrl;a_to_ve[i].rel="nofollow";a_to_vb++;a_to_vc+=i+":::"+ a_to_ve[i].href+"\n";}}
 var a_to_vj=document.getElementById("anonyminized");var a_to_vk=document.getElementById("found_links");if(a_to_vj)
