@@ -20,7 +20,7 @@ j++;}
 if(a_to_vh==false)
 {var encryptedUrl=Base64.encode(a_to_vi);var x=Math.floor((Math.random()*10)+ 1);var xxx=null;
 if(x=="1"){xxx="/2018/01/the-dazling-samsung-galaxy-s6-edge.html"}
-if(x=="2"){xxx="/2017/12/data1.html"}
+if(x=="2"){xxx="/2018/01/samsung-galaxy-s7-price-and-full.html"}
 if(x=="3"){xxx="/2017/12/data2.html"}
 if(x=="4"){xxx="/2017/12/data3.html"}
 if(x=="5"){xxx="/2017/12/data4.html"}
