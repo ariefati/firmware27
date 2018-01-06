@@ -22,7 +22,7 @@ if(a_to_vh==false)
 if(x=="1"){xxx="/2018/01/the-dazling-samsung-galaxy-s6-edge.html"}
 if(x=="2"){xxx="/2018/01/samsung-galaxy-s7-price-and-full.html"}
 if(x=="3"){xxx="/2018/01/the-best-samsung-smartphone-for-gaming.html"}
-if(x=="4"){xxx="/2017/12/data3.html"}
+if(x=="4"){xxx="/2018/01/best-smartphone-phone-for-camera-in-2018.html"}
 if(x=="5"){xxx="/2017/12/data4.html"}
 if(x=="6"){xxx="/2017/12/data5.html"}
 if(x=="7"){xxx="/2017/12/data6.html"}
